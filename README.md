@@ -1,82 +1,67 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Febrian+%F0%9F%91%8B;a.k.a+Brian;UI%2FUX+Designer+%7C+Front-End+Dev;Coding+with+lo-fi+beats+%F0%9F%8E%A7" alt="Typing SVG" />
 
-</div>
+<br><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
+</div>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CrFebrian&label=Profile%20Views&color=b19cd9&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/CrFebrian?label=Followers&style=flat&color=b19cd9" alt="followers" />
 </p>
 
 ---
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-### 🎧 About Me
+  ### 🎧 About Me
 
-- 🎓 Mahasiswa **IT — Rekayasa Perangkat Lunak**
-- 🎨 Fokus di **UI/UX Design**, **Front-End Development**, dan **Software Testing / QA**
-- 🌙 Suka ngoding malam hari sambil dengerin lo-fi
-- 🔭 Sedang mengerjakan proyek-proyek yang bisa kamu lihat di bagian *Featured Projects* di bawah
-- 🌱 Terus belajar hal baru di dunia front-end & mobile dev
-- 💬 Tanya-tanya soal UI/UX atau Laravel? Feel free to reach out lewat Instagram di bawah
+- 🎓 Mahasiswa **IT — Rekayasa Perangkat Lunak**.
+- 🎨 Fokus di **UI/UX Design**, **Front-End Development**, dan **Software Testing / QA**.
+- 🌙 Suka ngoding sambil dengerin lo-fi.
+- 🔭 Sedang mengerjakan proyek-proyek yang bisa kamu lihat di bagian *Featured Projects* di bawah.
+- 🏃‍♂️ Suka lari jarak jauh buat *refreshing* di tengah padatnya kerjaan.
 
-<br>
+</td>
+<td width="50%" align="center" valign="middle">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%">
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,py,kotlin,js,laravel,tailwind,nextjs,androidstudio,figma,vscode,github,mysql,git&theme=dark&perline=7" alt="My Skills" />
 
 <br>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CrFebrian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=B19CD9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrFebrian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=CrFebrian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=B19CD9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CrFebrian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=CrFebrian&theme=tokyonight&hide_border=true&background=0D1117&ring=C792EA&fire=B19CD9" />
 </p>
 
-<br>
-
 ### 🎵 Now Playing
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=false&bar_color=C792EA&bar_color_cover=false" />
-</p>
-
-> ⚠️ Widget ini perlu setup akun Spotify sekali di https://spotify-github-profile.vercel.app/ — nanti aku bantu langkah-langkahnya.
+<table style="border: 0px !important; border-collapse: collapse; background: transparent;">
+<tr style="border: 0px !important; background: transparent;">
+<td width="50%" align="center" valign="middle" style="border: 0px !important; background: transparent; padding: 8px;">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gnywyiwgrt6hnaecjj2ynxdlcq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0D1117&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="100%">
+</td>
+<td width="50%" align="center" valign="middle" style="border: 0px !important; background: transparent; padding: 8px;">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=KuruGane_M&count=4&header_style=compact&bg_color=0D111700&border_radius=16" alt="Recently played tracks" width="100%" />
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -84,7 +69,7 @@
 
 <p align="center">
   <a href="https://github.com/CrFebrian/Aplica-Pengeluaran">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrFebrian&repo=Aplica-Pengeluaran&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=CrFebrian&repo=Aplica-Pengeluaran&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA" />
   </a>
 </p>
 
@@ -99,5 +84,5 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
