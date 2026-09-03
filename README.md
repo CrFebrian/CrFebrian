@@ -79,7 +79,16 @@
 
 <p align="center">
   <a href="https://www.instagram.com/zryanbrian_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="45" />
+  </a>
+  <a href="https://saweria.co/Zryanbrian">
+    <img src="https://img.shields.io/badge/Saweria-FF6B35?style=flat-square&logo=ko-fi&logoColor=white" height="45" />
+  </a>
+  <a href="https://discord.com/users/755624769843626065">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="40" />
+  </a>
+  <a href="mailto:chesar.rizqi2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="40" />
   </a>
 </p>
 
