@@ -55,7 +55,9 @@
 <table style="border: 0px !important; border-collapse: collapse; background: transparent;">
 <tr style="border: 0px !important; background: transparent;">
 <td width="50%" align="center" valign="middle" style="border: 0px !important; background: transparent; padding: 8px;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gnywyiwgrt6hnaecjj2ynxdlcq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0D1117&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="100%">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31gnywyiwgrt6hnaecjj2ynxdlcq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gnywyiwgrt6hnaecjj2ynxdlcq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark" width="100%">
+  </a>
 </td>
 <td width="50%" align="center" valign="middle" style="border: 0px !important; background: transparent; padding: 8px;">
   <img src="https://lastfm-recently-played.vercel.app/api?user=KuruGane_M&count=4&header_style=compact&bg_color=0D111700&border_radius=16" alt="Recently played tracks" width="100%" />
