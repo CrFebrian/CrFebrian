@@ -20,7 +20,6 @@
 
 - 🎓 Mahasiswa **RPL — Rekayasa Perangkat Lunak**.
 - 🎨 Fokus di **UI/UX Design**, **Front-End Development**, dan **Software Testing / QA**.
-- 🌙 Suka ngoding sambil dengerin lo-fi.
 - 🔭 Sedang mengerjakan proyek-proyek yang bisa kamu lihat di bagian *Featured Projects* di bawah.
 - 🏃‍♂️ Suka lari jarak jauh buat *refreshing* di tengah padatnya kerjaan.
 
