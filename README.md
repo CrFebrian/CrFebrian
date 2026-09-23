@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CrFebrian&theme=tokyonight&hide_border=true&background=0D1117&ring=C792EA&fire=B19CD9" />
+  <img src="https://streak-stats.demolab.com/?user=CrFebrian&theme=tokyonight&background=0D1117&ring=C792EA&fire=B19CD9" />
 </p>
 
 ### 🎵 Now Playing
