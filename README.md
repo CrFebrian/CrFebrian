@@ -34,7 +34,7 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,py,kotlin,js,laravel,tailwind,nextjs,androidstudio,figma,vscode,github,mysql,git&theme=dark&perline=7" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=php,py,kotlin,js,laravel,tailwind,nextjs,androidstudio,flutter,figma,vscode,github,mysql,git&theme=dark&perline=7" alt="My Skills" />
 
 <br>
 
