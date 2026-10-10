@@ -71,6 +71,8 @@
 <p align="center">
   <a href="https://github.com/CrFebrian/KapanRich-Project.git">
   </a>
+  <a href="https://github.com/CrFebrian/Shiori-Run.git">
+  </a>
 </p>
 
 <br>
