@@ -69,8 +69,7 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/CrFebrian/Aplica-Pengeluaran">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=CrFebrian&repo=Aplica-Pengeluaran&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C792EA" />
+  <a href="https://github.com/CrFebrian/KapanRich-Project.git">
   </a>
 </p>
 
