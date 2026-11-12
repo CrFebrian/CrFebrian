@@ -68,12 +68,29 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/CrFebrian/Dynamic-Neko.git">
-  </a>
-  <a href="https://github.com/CrFebrian/Book-List.git">
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🐱 [Dynamic-Neko](https://github.com/CrFebrian/Dynamic-Neko)
+Yomi Island: dynamic island Windows bertema neko untuk pengingat task, timer baca, jadwal anime/manga, dan kontrol musik.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚 [Book-List](https://github.com/CrFebrian/Book-List)
+Aplikasi Wislit Buku yang sudah dimiliki
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
