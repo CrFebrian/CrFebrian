@@ -69,9 +69,9 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/CrFebrian/KapanRich-Project.git">
+  <a href="https://github.com/CrFebrian/Dynamic-Neko.git">
   </a>
-  <a href="https://github.com/CrFebrian/Shiori-Run.git">
+  <a href="https://github.com/CrFebrian/Book-List.git">
   </a>
 </p>
 
